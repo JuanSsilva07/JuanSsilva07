@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá!! Eu sou o JuansSilva07 👋
 
-<!--
-**JuanSsilva07/JuanSsilva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje atuo fora da área de desenvolvimento./Today I work outside the development area.
+- 🌱 Sigo estudando Desenvolvimento Web./I continue studying web development.
+- 👯 Estou disponível para colaborar com projetos de pequeno porte./I am available to collaborate on small projects.
+- 🤔 Procuro auxílio em relação a carreira, dicas e mentorias./I'm looking for career help, tips and mentorship.
+- 📫 Contante-me em: juan.ssilva1020@gmail.com/ Contact me on: juan.ssilva1020@gmail.com
+- 😄 Pronouns: Ele/Dele / Him/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <div>
+    <a href="https://github.com/JuanSsilva07">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSsilva07&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSsilva07&layout=compact&langs_count=16&theme=dark"/>
+  </div>
+
+  
+    ![Snake animation](https://https://github.com/JuanSsilva07/blob/output/github-contribution-grid-snake.svg)
