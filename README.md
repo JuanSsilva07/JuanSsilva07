@@ -6,7 +6,6 @@
 - 👯 Estou disponível para colaborar com projetos de pequeno porte./I am available to collaborate on small projects.
 - 🤔 Procuro auxílio em relação a carreira, dicas e mentorias./I'm looking for career help, tips and mentorship.
 - 📫 Contate-me em: juan.ssilva1020@gmail.com/ Contact me on: juan.ssilva1020@gmail.com
-- 😄 Pronouns: Ele/Dele / Him/His
 
 
   <div>
