@@ -3,7 +3,7 @@
 
 -  Estudante de Desenvolvimento Web./ Student of web development.
 -  Estou disponível para colaborar com projetos de pequeno porte./I am available to collaborate on small projects.
--  Contate-me em: juan.ssilva1020@gmail.com/ Contact me on: juan.ssilva1020@gmail.com
+-  Contate-me em: juan07silva@gmail.com/ Contact me on: juan07silva@gmail.com
 
 
   <div>
